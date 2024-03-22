@@ -117,7 +117,7 @@ export default function Footer() {
               <Link
                 className="text-blue-600 hover:underline"
                 target="_blank"
-                to="https://github.com/jinpark0625?tab=repositories"
+                to="https://github.com/MMansy19"
               >
                 Jin Park
               </Link>
