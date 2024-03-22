@@ -25,33 +25,6 @@ Happy Jolly is a feature-rich e-commerce website that has been built using moder
 - Mobile-responsive design using tailwind-css
 - Custom hooks created with react-query to efficiently fetch data and keep the user interface smooth and responsive.
 
-### v0.1.0
-
-- Sign up new users with email
-- Update a user's profile: Users can update their profile information.
-- Upload file with firebase storage
-- Form validation: The application includes form validation to ensure that users provide accurate and complete information when signing up or updating their profile
-
-### v0.2.0
-
-- Code Refactoring and Optimization
-- UI Enhancements
-- Products data in Firebase storage has been updated
-
-### v0.3.0
-
-- Code Refactoring and Optimization
-- Implemented product and NFT filtering options to improve user experience.
-- Utilized the Infinite Scrolling technique to fetch NFT API data dynamically.
-- Leveraged the Supabase platform for PostgreSQL support, enabling more advanced queries for NFT data storage compared to Firebase.
-- Integrated with the OpenSea API to obtain NFT data.
-
-### v0.4.0
-
-- Update Edit Profile page: Users can change name, profile image, and password using Firebase Realtime Database and Auth.
-- The PayPal API is used to securely process payments and confirm successful transactions. To test this feature, a PayPal developer account was used in conjunction with the PayPal sandbox to simulate transactions without incurring any real charges.
-- Order History page: Users can view their past orders. The transaction details and products are stored in Firebase Realtime Database and displayed in a table format for easy viewing.
-
 <br/>
 
 ## Technical Skills
