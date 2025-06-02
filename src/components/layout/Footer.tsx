@@ -117,9 +117,9 @@ export default function Footer() {
               <Link
                 className="text-blue-600 hover:underline"
                 target="_blank"
-                to="https://github.com/MMansy19"
+                to="https://mahmoud-mansy.vercel.app/en"
               >
-                Jin Park
+                Mahmoud Masny
               </Link>
               . All rights reserved.
             </div>

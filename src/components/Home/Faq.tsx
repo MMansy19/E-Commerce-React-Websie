@@ -15,7 +15,7 @@ export default function Faq() {
           <p className="mt-6 text-lg leading-8 text-gray-600">
             Can&#39;t find the answer you&#39;re lookinf for? Please{' '}
             <a
-              href="mailto:jinpark0625@gmail.com"
+              href="mailto:mahmoud2abdalfattah@gmail.com"
               className="font-medium text-violet-500"
             >
               contact
