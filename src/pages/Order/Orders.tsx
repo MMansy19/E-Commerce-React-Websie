@@ -30,7 +30,6 @@ const Orders = () => {
             address,
             apartment,
             city,
-            email,
             firstName,
             lastName,
             orderNumber,
