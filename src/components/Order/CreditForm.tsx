@@ -1,4 +1,5 @@
-import Cards from 'react-credit-cards';
+import Cards from 'react-credit-cards-2';
+import 'react-credit-cards-2/dist/es/styles-compiled.css';
 import { CardTypes, Focused } from 'utils/interfaces';
 import { Dispatch, SetStateAction } from 'react';
 import Input from 'components/ui/Input';
