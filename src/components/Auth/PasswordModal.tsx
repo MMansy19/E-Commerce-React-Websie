@@ -32,17 +32,21 @@ interface FormProps {
 
 const PasswordModal = ({
   title,
-  content,
+  content: _content,
   open,
   setOpen,
   IdentificationIcon,
   bg,
   color,
-  user,
+  user: _user,
   onClick,
   passwordUpdated,
   ...props
 }: ModalProps) => {
+  // Avoid unused variable warnings
+  void _content;
+  void _user;
+  void props;
   const {
     register,
     handleSubmit,
