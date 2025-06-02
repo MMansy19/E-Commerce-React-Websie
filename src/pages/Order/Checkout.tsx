@@ -101,7 +101,7 @@ const Checkout = () => {
         }
       } else if (data) {
         cardSubmit(onSubmitCardData, onError)()
-          .then((res) => {
+          .then(() => {
             const orderData = {
               ...data,
               orderNumber: uuid(),

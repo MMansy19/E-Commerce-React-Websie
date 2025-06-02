@@ -97,7 +97,7 @@ const FilterMobile = ({
                       <li className="h-6 w-full animate-pulse rounded-md bg-slate-50"></li>
                     </>
                   )}
-                  {allCategories.map((props, i) => {
+                  {allCategories.map((props) => {
                     return (
                       <li key={props}>
                         {pageData === 'subCategory' ? (
